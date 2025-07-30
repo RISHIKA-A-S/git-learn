@@ -1,1 +1,21 @@
 Hi I am rishika
+
+main branch:-
+
+git add 
+git commit -m "initial commit"
+git push 
+
+git switch "branch name".  -- git switch branch1
+
+
+gir reflog  --- gives all the commit messages
+
+
+change. from current commit to previous commit
+
+
+git reset --hard " id"
+
+
+commit id- is called commit hash
