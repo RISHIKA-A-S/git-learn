@@ -9,7 +9,7 @@ git push
 git switch "branch name".  -- git switch branch1
 
 
-gir reflog  --- gives all the commit messages
+gir reflog  --->> gives all the commit messages
 
 
 change. from current commit to previous commit
@@ -39,3 +39,6 @@ git push RISHIKA-A-S main
 
 
 this a reverse test 
+moving from one change to another (previous)
+git reflog 
+git reset --hard "reset to id"
