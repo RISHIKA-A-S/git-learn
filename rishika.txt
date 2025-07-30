@@ -20,6 +20,10 @@ git reset --hard " id"
 
 commit id- is called commit hash
 
+
+>>changing from one branch to another :
+
+here: from branch1 to main branch 
 # 1. Switch to main branch
 git checkout main
 
